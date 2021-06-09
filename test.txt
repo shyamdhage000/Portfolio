@@ -9,3 +9,6 @@ This is to just verify the master branch working.
 
 This changes done by feature-new-branch.
 .
+This is another line in the test from feature branch.
+
+
