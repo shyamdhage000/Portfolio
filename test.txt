@@ -9,3 +9,4 @@ This is to just verify the master branch working.
 
 This changes done by feature-new-branch.
 .
+This changes done by bug fix.
