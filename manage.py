@@ -19,3 +19,8 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+
+#this is the  manage.py file which is the main file of the project
+#This changes are done by mybranch.
+.
